@@ -1,9 +1,13 @@
 {
+  "name": "This is a long name of My App",
+  "short_name": "My App",
   "icons": [
     {
       "src": "https://img.icons8.com/color/search/100",
       "sizes": "100x100",
       "type": "image/png"
     }
-  ]
+  ],
+  "start_url": ".",
+  "display": "standalone"
 }
