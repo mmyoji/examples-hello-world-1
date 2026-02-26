@@ -1,2 +1,9 @@
 {
+  "icons": [
+    {
+      "src": "https://img.icons8.com/color/search/100",
+      "sizes": "100x100",
+      "type": "image/png"
+    }
+  ]
 }
